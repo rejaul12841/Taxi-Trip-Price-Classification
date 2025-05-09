@@ -58,4 +58,4 @@ SVM with Linear Kernel outperformed all other models, making it the most effecti
 (https://www.kaggle.com/code/rejaul5/project303)
 
 ## 📎 GitHub Repository
-[Taxi Trip Price Classification Project](https://github.com/yourusername/Taxi-Trip-Price-Classification)
+https://github.com/rejaul12841/Taxi-Trip-Price-Classification.git
